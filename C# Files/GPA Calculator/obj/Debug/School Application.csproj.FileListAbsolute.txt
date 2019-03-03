@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\School Application\School Application\obj\Debug\School Application.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\School Application\School Application\obj\Debug\School Application.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\School Application\School Application\bin\Debug\School Application.exe.config
+C:\Users\Daniel\source\repos\School Application\School Application\bin\Debug\School Application.exe
+C:\Users\Daniel\source\repos\School Application\School Application\bin\Debug\School Application.pdb
+C:\Users\Daniel\source\repos\School Application\School Application\obj\Debug\School Application.exe
+C:\Users\Daniel\source\repos\School Application\School Application\obj\Debug\School Application.pdb
