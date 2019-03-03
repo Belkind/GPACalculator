@@ -167,28 +167,5 @@ public class GPACalc
 				System.out.println("What scale should be used for AP classes?");
 				AP = Double.parseDouble(APUSH.nextLine());
 			}
-		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
+		}		
 }
